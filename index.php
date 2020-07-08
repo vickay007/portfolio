@@ -29,7 +29,7 @@
 			</div>
 		</div>
 	</div>
-	<!-- End of social icons -->
+	<!-- End of social icon -->
 
 	<!-- Header section -->
 	<header id="header">
